@@ -1,53 +1,17 @@
-Skip to content
-Navigation Menu
-anu-varshini11
-DS_Module14
-
-Type / to search
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Files
-Go to file
-t
-Ex10-Applications-of-Queue-FCFS.md
-Ex6-Circular-queue..md
-Ex7-Priority-Queue.md
-Ex8-Deque.md
-Ex9-Applications-of-Queue---SJF.md
-DS_Module14
-/Ex7-Priority-Queue.md
-anu-varshini11
-anu-varshini11
-Update Ex7-Priority-Queue.md
-abad084
- · 
-last month
-DS_Module14
-/Ex7-Priority-Queue.md
-
-Preview
-
-Code
-
-Blame
-40 lines (35 loc) · 1022 Bytes
-Ex7 Priority Queue
-DATE:
-AIM:
+# Ex7 Priority Queue
+## DATE:
+## AIM:
 To formulate the C code to display the elements of the priority queue after insertion and deletion operation.
 
-Algorithm
-Start
-Define a function printArray() that takes an array and its size as parameters.
-Loop through the array from index 0 to size-1.
-Print each element of the array during the loop.
-After printing all elements, print a newline for formatting.
-End
-Program:
+## Algorithm
+1. Start 
+2. Define a function printArray() that takes an array and its size as parameters. 
+3. Loop through the array from index 0 to size-1. 
+4. Print each element of the array during the loop. 
+5. After printing all elements, print a newline for formatting. 
+6. End
+## Program:
+```
 /*
 Program to o display the elements of the priority queue after insertion and deletion operation
 Developed by: HANUMANTH RAO 
@@ -65,10 +29,12 @@ printf("%d ",array[i]);
 } 
 printf("\n"); 
 }
-Output:
-image
+```
 
-Result:
+## Output:
+
+![image](https://github.com/user-attachments/assets/89b1bc1f-089f-414d-a8de-2b1ca09f4fd9)
+
+
+## Result:
 Thus, the C program to display the elements of the priority queue after insertion and deletion operation is implemented successfully
-
-DS_Module14/Ex7-Priority-Queue.md at main · anu-varshini11/DS_Module14
